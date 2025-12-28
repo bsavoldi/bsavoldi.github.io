@@ -1,44 +1,61 @@
 ---
 layout: default
 ---
+<style>
+  .post {
+    max-width: 1200px;
+  }
+</style>
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
-  </header>
-
-  <article>
+  <article class="about-article">
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
-        {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
-      </div>
-    {% endif %}
+      <div class="about-container" style="display: flex; gap: 3rem; {% if page.profile.align == 'left' %}flex-direction: row;{% else %}flex-direction: row-reverse;{% endif %} max-width: 100%;">
+        <div class="profile" style="flex-shrink: 0; width: 300px; text-align: center;">
+          <div>
+            <h1 class="post-title" style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.8rem;">
+              {% if site.title == 'blank' %}
+                <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+                {{ site.last_name }}
+              {% else %}
+                {{ site.title }}
+              {% endif %}
+            </h1>
+            <p class="desc" style="margin-bottom: 1.5rem;">{{ page.subtitle }}</p>
+          </div>
 
-    <div class="clearfix">{{ content }}</div>
+          {% if page.profile.image %}
+            {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+            {% if page.profile.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+            {%
+              include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+              cache_bust=true
+            %}
+          {% endif %}
+          
+          {% if page.profile.more_info %}
+            <div class="more-info">{{ page.profile.more_info }}</div>
+          {% endif %}
+
+          <!-- Social icons under profile -->
+          {% if page.social %}
+            <div class="social" style="margin-top: 1.5rem;">
+              <div class="contact-icons">{% include social.liquid %}</div>
+            </div>
+          {% endif %}
+        </div>
+
+        <div class="about-content" style="flex: 1; min-width: 0;">
+          {{ content }}
+        </div>
+      </div>
+    {% else %}
+      <div class="clearfix">{{ content }}</div>
+    {% endif %}
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
@@ -64,14 +81,8 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
+    <!-- Contact note -->
+    <div class="contact-note" style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">{{ site.contact_note }}</div>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

@@ -7,7 +7,7 @@ subtitle: Researcher
 # nav_order: 0
 
 profile:
-  align: right
+  align: left
   image: bs_pic.jpeg
   image_circular: true # crops the image to make it circular
   # more_info: >
