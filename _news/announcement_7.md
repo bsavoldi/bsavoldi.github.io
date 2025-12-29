@@ -4,4 +4,4 @@ inline: true
 related_posts: false
 ---
 
-🗣️ Invited talk at Google Translate team reading group: *Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions*.
+🗣️ Invited talk at Google Translate reading group: *Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions*.
