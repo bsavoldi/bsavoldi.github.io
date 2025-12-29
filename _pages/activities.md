@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Workshops
 
-- **GITT 2026** — 4th International Workshop on [Gender-Inclusive Translation Technologies](https://sites.google.com/view/gitt2026/) at **MT Summit**, Geneva, Switzerland
+- **GITT 2026** — 4th International Workshop on [Gender-Inclusive Translation Technologies](https://sites.google.com/view/gitt2026/) at **EAMT**, Tilburg, The Netherlands
 - **Mind the AI GAP 2025** — 1st International [Mind the AI Gap Workshop: Co-Designing Socio-Technical Systems](https://aigap2025.isti.cnr.it/), at **HHAI**, Pisa, Italy
 - **GITT 2025** — 3rd International [Workshop on Gender-Inclusive Translation Technologies](https://sites.google.com/tilburguniversity.edu/gitt2025) at **MT Summit**, Geneva, Switzerland
 - **GITT 2024** — 2nd International [Workshop on Gender-Inclusive Translation Technologies](https://sites.google.com/tilburguniversity.edu/gitt2024/home?authuser=0) at **EAMT**, Sheffield, UK
