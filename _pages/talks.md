@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 ## Invited Talks and Panels
+
 <!-- 
 **2025** -->
 -  **Sfide e bias nelle tecnologie multilingue. Un approccio centrato sugli utenti** — *Talk* — [Conversazioni Linguistiche](https://eventi.unitn.it/sites/eventi/files/2025-05/CL_Savoldi_Locandina.pdf), University of Trento — May 2025
