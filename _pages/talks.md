@@ -4,7 +4,7 @@ permalink: /talks/
 title: Talks
 description: Like most academics, I enjoy talking about my work and getting feedback from diverse audiences. Beyond scientific venues, I'm passionate about public outreach and engaging with communities outside academia. 
 nav: true
-nav_order: 8
+nav_order: 5
 ---
 
 ## Invited Talks and Panels
@@ -13,7 +13,6 @@ nav_order: 8
 -  **Sfide e bias nelle tecnologie multilingue. Un approccio centrato sugli utenti** — *Talk* — [Conversazioni Linguistiche](https://eventi.unitn.it/sites/eventi/files/2025-05/CL_Savoldi_Locandina.pdf), University of Trento — May 2025
 - **Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions** — *Talk* — Google Translate Reading Group, Online — May 2025
 - **Diversity and Inclusivity in Language Science** — *Keynote* — CLCG Colloquium, University of Groningen — April  2025
-
 <!-- 
 **2024** -->
 - **Fairness in Large Language Models** — *Panel* — [AI Fairness: Adressing Bias, Stereotypes, and Discrimination in AI systems](https://fondazione-fair.it/evento/stereotypes-discrimination-in-ai-systems/), Bologna — December 2024
