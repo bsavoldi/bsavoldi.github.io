@@ -5,12 +5,30 @@ layout: default
   .post {
     max-width: 1200px;
   }
+  
+  .about-article .profile img {
+    max-width: 220px;
+  }
+  
+  .about-article .social .contact-icons {
+    font-size: 1.8rem;
+  }
+  
+  .about-article .social .contact-icons a {
+    margin: 0 0.4rem;
+  }
+  
+  .about-article hr {
+    margin: 3rem 0;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
 </style>
 <div class="post">
   <article class="about-article">
     {% if page.profile %}
       <div class="about-container" style="display: flex; gap: 3rem; {% if page.profile.align == 'left' %}flex-direction: row;{% else %}flex-direction: row-reverse;{% endif %} max-width: 100%;">
-        <div class="profile" style="flex-shrink: 0; width: 300px; text-align: center;">
+        <div class="profile" style="flex-shrink: 0; width: 250px; text-align: center;">
           <div>
             <h1 class="post-title" style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.8rem;">
               {% if site.title == 'blank' %}
@@ -49,13 +67,15 @@ layout: default
           {% endif %}
         </div>
 
-        <div class="about-content" style="flex: 1; min-width: 0;">
+        <div class="about-content" style="flex: 1; min-width: 0; padding-top: 1rem; text-align: justify;">
           {{ content }}
         </div>
       </div>
     {% else %}
       <div class="clearfix">{{ content }}</div>
     {% endif %}
+
+    <hr>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
@@ -82,7 +102,7 @@ layout: default
     {% endif %}
 
     <!-- Contact note -->
-    <div class="contact-note" style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">{{ site.contact_note }}</div>
+    <div class="contact-note" style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;"><i class="fas fa-envelope" style="margin-right: 0.5rem;"></i>{{ site.contact_note }}</div>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
