@@ -85,6 +85,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Achievements -->
+    {% if page.achievements and page.achievements.enabled %}
+      <h2 id="achievements">
+        <a href="#achievements" style="color: inherit">achievements</a>
+      </h2>
+      {% include achievements.liquid limit=true %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>

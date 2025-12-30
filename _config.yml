@@ -150,6 +150,10 @@ collections:
     defaults:
       layout: post
     output: true
+  achievements:
+    defaults:
+      layout: post
+    output: true
   projects:
     output: true
 
