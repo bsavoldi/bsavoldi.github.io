@@ -26,9 +26,18 @@
             </td>
           </tr>
         {% endfor %}
+        {% if include.limit and news_size > news_limit %}
+          <tr>
+            <th scope="row"></th>
+            <td style="padding-top: 1.5rem; font-weight: bold;">
+              <a href="{{ '/news/' | relative_url }}" style="color: var(--global-theme-color);">→ View all news</a>
+            </td>
+          </tr>
+        {% endif %}
       </table>
     </div>
   {% else %}
     <p>No news so far...</p>
   {% endif %}
 </div>
+
