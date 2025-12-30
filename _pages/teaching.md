@@ -29,9 +29,9 @@ I have taught and designed (or co-designed) several courses at the University of
 I have supervised several Master Degree students interning at FBK or as co-supervisor of their thesis, some of which have turned into publications. 
 
 - Arianna Denitto (2026). University of Torino. 
-- Manjinder Thind (2025). University of Bologna, DIT. [Paper]()
-- Eleonora Cupin (2024). University of Bologna, DIT. [Paper]()
-- Silvia Alma Casola (2021). University of Trento. [Paper]()
+- Manjinder Thind (2025). University of Bologna, DIT. [Paper](https://aclanthology.org/2025.emnlp-main.692/)
+- Eleonora Cupin (2024). University of Bologna, DIT. [Paper](https://aclanthology.org/2025.emnlp-main.692/)
+- Silvia Alma Piazzolla (2021). University of Trento. [Paper](https://tidsskrift.dk/her/article/view/137553)
 - Francesco Fernicola (2021). University of Bologna DIT. 
 - Lorena del Rocío Martín Rodríguez (2021). University of Tübingen. 
 - Sara Giuliani, (2021). University of Bologna DIT.
