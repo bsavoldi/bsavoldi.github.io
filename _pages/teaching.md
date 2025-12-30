@@ -34,8 +34,8 @@ I have supervised several Master Degree students interning at FBK or as co-super
 - Silvia Alma Piazzolla (2021). University of Trento. [Paper](https://tidsskrift.dk/her/article/view/137553)
 - Francesco Fernicola (2021). University of Bologna DIT. 
 - Lorena del Rocío Martín Rodríguez (2021). University of Tübingen. 
-- Sara Giuliani, (2021). University of Bologna DIT.
-- Mélanie Prati, (2021). University of Bologna DIT.
-- Jana Waldmann, (2021). Saarland University.
+- Sara Giuliani (2021). University of Bologna DIT.
+- Mélanie Prati (2021). University of Bologna DIT.
+- Jana Waldmann (2021). Saarland University.
 
 
