@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I have taught and designed (or co-designed) several courses at the University of Trento and Groningen during a research visit with [Malvina Nissim](https://malvinanissim.github.io/). As my research position does not involve teaching, I occasionally enjoy being a *guest lecturer*.
+I have taught and designed (or co-designed) several courses at the University of Trento and Groningen during a research visit with [Malvina Nissim](https://malvinanissim.github.io/). You can read more about our course and pedagogical approach [here](https://arxiv.org/abs/2512.24825). As my research position does not involve teaching, I occasionally enjoy being a *guest lecturer*.
 
 - **Ethical Aspects in Natural Language Processing** (w Malvina Nissim)
   - *Bsc in Information Science*, University of Groningen — A.Y. 2021-22
