@@ -23,6 +23,25 @@ layout: default
     border: none;
     border-top: 1px solid #ccc;
   }
+
+  /* Mobile responsive fixes */
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column !important;
+      gap: 1.5rem !important;
+    }
+    
+    .profile {
+      width: 100% !important;
+      max-width: 250px;
+      margin: 0 auto;
+    }
+    
+    .about-content {
+      width: 100%;
+      padding-top: 0 !important;
+    }
+  }
 </style>
 <div class="post">
   <article class="about-article">
