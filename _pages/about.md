@@ -45,7 +45,7 @@ I am a researcher in the [MT Unit](https://mt.fbk.eu/) at [Fondazione Bruno Kess
 My research interests mainly lie at the intersection of language, computation and society within the field of Natural Language Processing, and on the social and ethical implications of language technologies. I have primarily focused on cross-lingual and multilingual tasks such as machine translation, for both speech and text. 
 I am also deeply interested in understanding how people use language technologies in their everyday lives, and how to best measure their impact on lay users with human-centered approaches.
 
-In June 2023, I obtained my International Ph.D. (summa cum laude) from the University of Trento and Augsburg making contributions to the study of gender bias and inclusivty in speech and machine translation ([thesis](https://iris.unitn.it/retrieve/e7164ccd-934c-40ad-ae7b-c7a67ea1f32c/iris-PHD.pdf)). 
+In June 2023, I obtained my International Ph.D. (summa cum laude) from the University of Trento and Augsburg making contributions to the study of gender bias and inclusivity in speech and machine translation.  
 
 I am an organizer of the Workshop on [Gender-Inclusive Translation Technologies (GITT)](https://sites.google.com/view/gitt2026/home) and [Mind the AI-GAP: Co-Designing SocioTechnical Systems (AI-GAP)](https://aigap2025.isti.cnr.it/). I am also co-organizing the [Speech Instruction-Following](https://iwslt.org/2026/instruction-following) shared task at [IWSLT](https://iwslt.org/).
 
