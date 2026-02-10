@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-talks",
           title: "Talks",
-          description: "Like most academics, I enjoy talking about my work and getting feedback from diverse audiences. Beyond scientific venues, I&#39;m passionate about public outreach and engaging with communities outside academia.",
+          description: "Like most researchers, I enjoy talking about my work and getting feedback from diverse audiences. Beyond scientific venues, I&#39;m passionate about public outreach and engaging with communities outside academia.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
@@ -93,6 +93,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-mcif-multimodal-crosslingual-instruction-following-benchmark-from-scientific-talks-was-accepted-at-iclr-2026",
           title: '📄 Our paper MCIF: Multimodal Crosslingual Instruction-Following Benchmark from Scientific Talks was accepted...',
+          description: "",
+          section: "News",},{id: "news-️-i-gave-a-talk-at-the-university-of-bordeaux-in-the-frame-of-the-interational-day-of-women-and-girls-in-science",
+          title: '🗣️ I gave a talk at the University of Bordeaux in the frame...',
           description: "",
           section: "News",},{id: "projects-dvps",
           title: 'DVPS',
