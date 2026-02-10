@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Like most academics, I enjoy talking about my work and getting feedback from diverse audiences. Beyond scientific venues, I'm passionate about public outreach and engaging with communities outside academia. 
+description: Like most researchers, I enjoy talking about my work and getting feedback from diverse audiences. Beyond scientific venues, I'm passionate about public outreach and engaging with communities outside academia. 
 nav: true
 nav_order: 5
 ---
@@ -11,6 +11,8 @@ nav_order: 5
 
 <!-- 
 **2025** -->
+- -  **Language Technologies, Language and Society** — *Talk* — [Interational Day of Women and Girls in Science](https://www.bordeaux-neurocampus.fr/event/phd-seminar-6-february-2026/), University of Bordeaux — February 2026
+
 -  **Sfide e bias nelle tecnologie multilingue. Un approccio centrato sugli utenti** — *Talk* — [Conversazioni Linguistiche](https://eventi.unitn.it/sites/eventi/files/2025-05/CL_Savoldi_Locandina.pdf), University of Trento — May 2025
 - **Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions** — *Talk* — Google Translate Reading Group, Online — May 2025
 - **Diversity and Inclusivity in Language Science** — *Keynote* — CLCG Colloquium, University of Groningen — April  2025
