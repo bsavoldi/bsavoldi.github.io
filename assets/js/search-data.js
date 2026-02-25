@@ -94,7 +94,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-mcif-multimodal-crosslingual-instruction-following-benchmark-from-scientific-talks-was-accepted-at-iclr-2026",
           title: '📄 Our paper MCIF: Multimodal Crosslingual Instruction-Following Benchmark from Scientific Talks was accepted...',
           description: "",
-          section: "News",},{id: "news-️-i-gave-a-talk-at-the-university-of-bordeaux-in-the-frame-of-the-interational-day-of-women-and-girls-in-science",
+          section: "News",},{id: "news-️-i-gave-a-talk-at-the-university-of-bordeaux-in-the-frame-of-the-international-day-of-women-and-girls-in-science",
           title: '🗣️ I gave a talk at the University of Bordeaux in the frame...',
           description: "",
           section: "News",},{id: "projects-dvps",
