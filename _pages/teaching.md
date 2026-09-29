@@ -33,6 +33,7 @@ I have supervised several Master Degree students interning at FBK or as co-super
 - Arianna Bernardi (ongoing). University of Torino.
 - Sofia Beccaria (ongoing). University of Milano Bicocca.
 - Arianna Denitto (2026). University of Torino. [Paper](https://arxiv.org/abs/2608.04847)
+- Jelle Fritz Psurek (2026). University of Potsdam.
 - Manjinder Thind (2025). University of Bologna, DIT. [Paper](https://aclanthology.org/2025.emnlp-main.692/)
 - Eleonora Cupin (2024). University of Bologna, DIT. [Paper](https://aclanthology.org/2025.emnlp-main.692/)
 - Silvia Alma Piazzolla (2021). University of Trento. [Paper](https://tidsskrift.dk/her/article/view/137553)
