@@ -28,7 +28,7 @@ I have taught and designed (or co-designed) several courses at the University of
     - *MA in Linguistics*, University of Pavia — 22-23/02/2024
 
 # Supervision
-I have supervised several Master Degree students interning at FBK or as co-supervisor of their thesis, some of which have turned into publications. 
+I have supervised several students interning at FBK or as co-supervisor of their thesis, some of which have turned into publications. 
 
 - Arianna Bernardi (ongoing). University of Torino.
 - Sofia Beccaria (ongoing). University of Milano Bicocca.
