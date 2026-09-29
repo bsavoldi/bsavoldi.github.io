@@ -12,13 +12,13 @@ nav_order: 5
 <!-- 
 **2025** -->
 - **Towards Inclusive and Human-Centered Multilingual Technologies** — *Talk* — INESC-ID, Lisbon — February 2026
--  **Language Technologies, Language and Society** — *Talk* — [Interational Day of Women and Girls in Science](https://www.bordeaux-neurocampus.fr/event/phd-seminar-6-february-2026/), University of Bordeaux — February 2026
+-  **Language Technologies, Language and Society** — *Talk* — [International Day of Women and Girls in Science](https://www.bordeaux-neurocampus.fr/event/phd-seminar-6-february-2026/), University of Bordeaux — February 2026
 -  **Sfide e bias nelle tecnologie multilingue. Un approccio centrato sugli utenti** — *Talk* — [Conversazioni Linguistiche](https://eventi.unitn.it/sites/eventi/files/2025-05/CL_Savoldi_Locandina.pdf), University of Trento — May 2025
 - **Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions** — *Talk* — Google Translate Reading Group, Online — May 2025
-- **Diversity and Inclusivity in Language Science** — *Keynote* — CLCG Colloquium, University of Groningen — April  2025
+- **Diversity and Inclusivity in Language Science** — *Keynote* — CLCG Colloquium, University of Groningen — April 2025
 <!-- 
 **2024** -->
-- **Fairness in Large Language Models** — *Panel* — [AI Fairness: Adressing Bias, Stereotypes, and Discrimination in AI systems](https://fondazione-fair.it/evento/stereotypes-discrimination-in-ai-systems/), Bologna — December 2024
+- **Fairness in Large Language Models** — *Panel* — [AI Fairness: Addressing Bias, Stereotypes, and Discrimination in AI systems](https://fondazione-fair.it/evento/stereotypes-discrimination-in-ai-systems/), Bologna — December 2024
 - **Automatic Translation, AI and CAT Tools** — *Seminar* — [Labterm, DIT University of Bologna](https://www.terminologia.it/index.php/2024/09/26/italiano-traduzione-automatica-intelligenza-artificiale-e-integrazione-nei-cat-tools/?lang=it) — November 2024
 - **What the Harm? Gender Bias in Automatic Translation** — *Talk* — [Gender Lectures, TU Dresden](https://tu-dresden.de/gsw/slk/die-fakultaet/einrichtungen/zentrum-f-italienstudien/termine/hi-guys-or-hi-folks-navigating-gender-bias-and-inclusive-language-in-translation-technologies) — October 2024
 <!-- 
@@ -46,7 +46,7 @@ nav_order: 5
 ## Outreach
 
 #### Events
-- **Science Chats** — Cafe' de la Paix, Trento — Februray 2026
+- **Science Chats** — Café de la Paix, Trento — February 2026
 - **Bias and Language technologies** — *Seminar* — Piano Scuola Digitale, Trento — January 2026
 - **AI is a Mirror of Ourselves: Connecting Ethics, Justice, and Responsible AI**. — *Panel Mediator* — [Coexist,
 Service Design Drinks Milan](https://stayhappening.com/e/ai-is-a-mirror-of-ourselves-connecting-ethics-justice-and-responsible-ai-E3LV468TBCEW) — March 2024. 
@@ -55,7 +55,7 @@ Service Design Drinks Milan](https://stayhappening.com/e/ai-is-a-mirror-of-ourse
 
 #### Materials
 
-- **Gender Report for Alto Adige/Südtirol 2024** . Contributed to the section on inclusive language. Available in English, German, and Italian. [PDF](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/39UBZ_INST/storage/alma/56/AD/A5/80/63/19/A3/54/A4/04/E5/5C/4E/26/AD/7E/Report-Gender-Alto-Adige-2024.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251229T152651Z&X-Amz-SignedHeaders=host&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20251229%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Expires=119&X-Amz-Signature=721eecc97194239d70918e5261422e709e9890cc2140afb46db4fb49a898fe96)
+- **Gender Report for Alto Adige/Südtirol 2024**. Contributed to the section on inclusive language. Available in English, German, and Italian. [PDF](https://eu-st01.ext.exlibrisgroup.com/39UBZ_INST/storage/alma/56/AD/A5/80/63/19/A3/54/A4/04/E5/5C/4E/26/AD/7E/Report-Gender-Alto-Adige-2024.pdf?AccessRightAllowDownload=true&Expires=1790683988&Signature=dQZQYyhinRRgVuysd4Zm~xzU9Vg64bxUmUtIVvkTH3ecvoaJXt9iO5fSj64UpbAZoJfpbNaIHA9W3dtfIsbBtbapBBbpqEF7sNkPNdJGZdADQUM6Pdh6QwqkZuMl4td19WAUwlDBqYLw8V85jQXMRXsbKnhqOzpJM7mqcz3QHbDGmg1F~YbpG1JJKKDG~7vb2EzVpv3elx1TO~gN6-tTiOv0xKtg54g4L7BF6CVbRyh5LWfRfG089dAr0y8yoezYSRUUfL5PFN-QWi1l~DPWCED3cw5Mbm6S5RZK7Bwkivr~3htFeeHuPDDMlAfGGkicus92XIfZJseQUXM9z5n9YA__&Key-Pair-Id=APKAJ72OZCZ36VGVASIA)
 
 
 #### Coverage

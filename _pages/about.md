@@ -47,6 +47,6 @@ I am also deeply interested in understanding how people use language technologie
 
 In June 2023, I obtained my International Ph.D. (summa cum laude) from the University of Trento and Augsburg making contributions to the study of gender bias and inclusivity in speech and machine translation.  
 
-I am an organizer of the Workshop on [Gender-Inclusive Translation Technologies (GITT)](https://sites.google.com/view/gitt2026/home) and [Mind the AI-GAP: Co-Designing SocioTechnical Systems (AI-GAP)](https://aigap2025.isti.cnr.it/). I am also co-organizing the [Speech Instruction-Following](https://iwslt.org/2026/instruction-following) shared task at [IWSLT](https://iwslt.org/).
+I am an organizer of the Workshop on [Gender-Inclusive Translation Technologies (GITT)](https://sites.google.com/view/gitt2026/home) and [Mind the AI-GAP: Co-Designing Socio-Technical Systems (AI-GAP)](https://aigap2025.isti.cnr.it/). I am also co-organizing the [Speech Instruction-Following](https://iwslt.org/2026/instruction-following) shared task at [IWSLT](https://iwslt.org/).
 
 I am passionate about interdisciplinary work, activities and [dissemination](/talks/).

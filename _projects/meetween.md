@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meetween
-description: My Personal AI Mediator for Virtual Meetings.  European Union's Horizon Europe Framework under Grant Agreement No. 101135798
+description: My Personal AI Mediator for Virtual Meetings. European Union's Horizon Europe Framework under Grant Agreement No. 101135798
 img: assets/img/logo_meetween.jpg
 redirect: https://www.meetween.eu/
 importance: 1
