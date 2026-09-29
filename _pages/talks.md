@@ -11,6 +11,7 @@ nav_order: 5
 
 <!-- 
 **2025** -->
+- **Multilingual Stereotypes in Large Language Models** — *Talk* — HYBRIDIS Conference: Disinformation in the Age of AI — June 2026
 - **Towards Inclusive and Human-Centered Multilingual Technologies** — *Talk* — INESC-ID, Lisbon — February 2026
 -  **Language Technologies, Language and Society** — *Talk* — [International Day of Women and Girls in Science](https://www.bordeaux-neurocampus.fr/event/phd-seminar-6-february-2026/), University of Bordeaux — February 2026
 -  **Sfide e bias nelle tecnologie multilingue. Un approccio centrato sugli utenti** — *Talk* — [Conversazioni Linguistiche](https://eventi.unitn.it/sites/eventi/files/2025-05/CL_Savoldi_Locandina.pdf), University of Trento — May 2025
@@ -59,5 +60,9 @@ Service Design Drinks Milan](https://stayhappening.com/e/ai-is-a-mirror-of-ourse
 
 
 #### Coverage
+- **Cosa facciamo davvero con ChatGPT, Gemini & co? I dati del primo studio sugli utenti italiani dei chatbot GenAI**. Corriere della Sera. May 2026. [Link](https://www.corriere.it/tecnologia/26_maggio_23/cosa-facciamo-davvero-con-chatgpt-gemini-co-i-dati-del-primo-studio-sugli-utenti-italiani-dei-chatbot-genai-9bdbd6d2-3c12-4bf2-8ceb-ded720ad5xlk.shtml)
+- **Intelligenza artificiale e traduzione: macchine e umani operano in modo diverso**. Il Dolomiti. 2026. [Link](https://www.ildolomiti.it/ricerca-e-universita/2026/intelligenza-artificiale-e-traduzione-macchine-e-umani-operano-in-modo-diverso-la-ricercatrice-savoldi-traduttori-spariranno-no-lavoro-in-ridefinizione)
 - **Cosa fanno gli italiani con ChatGPT, Gemini & co?** Survey on real AI usage in Italy, Corriere della Sera. May 2025. [Link](https://www.corriere.it/tecnologia/25_maggio_31/cosa-fanno-gli-italiani-con-chatgpt-gemini-co-un-sondaggio-per-indagare-l-uso-reale-dell-ai-e-aiutare-la-ricerca-6a9ba2d6-5fab-4d3d-8056-ee10e3738xlk.shtml)
+- **This data set helps researchers spot harmful stereotypes in LLMs**. MIT Technology Review. 2025. [Link](https://www.technologyreview.com/2025/04/30/1115946/this-data-set-helps-researchers-spot-harmful-stereotypes-in-llms/)
+- **Da FBK nasce «Shades», un dataset per monitorare come l'AI riproduce (e inventa) stereotipi culturali**. Il T Quotidiano. 2025. [Link](https://www.iltquotidiano.it/articoli/da-fbk-nasce-shades-un-dataset-per-monitorare-come-lai-riproduce-e-inventa-stereotipi-culturali/)
 - **MT Gender Bias is More Than a Technical Problem**. Interview with Tomedes. December 2022. [Link](https://www.machinetranslation.com/en/blog/mt-gender-bias-is-more-than-a-technical-problem)

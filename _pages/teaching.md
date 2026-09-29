@@ -17,6 +17,8 @@ I have taught and designed (or co-designed) several courses at the University of
 
 ### Guest Lectures
 
+- **Fair and Human-centered Multilingual Technologies**
+    - *MA in Digital Humanities*, course "Ethical Aspects in NLP", University of Torino — 29/05/2026
 - **Gender and Inclusivity in Multilingual Language Technologies** 
     - *MA Digital Humanities*, University of Torino — 14/03/2025
 - **Bias in Language Technologies** 
