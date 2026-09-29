@@ -55,7 +55,7 @@ Service Design Drinks Milan](https://stayhappening.com/e/ai-is-a-mirror-of-ourse
 
 #### Materials
 
-- **Gender Report for Alto Adige/Südtirol 2024**. Contributed to the section on inclusive language. Available in English, German, and Italian. [PDF](https://eu-st01.ext.exlibrisgroup.com/39UBZ_INST/storage/alma/56/AD/A5/80/63/19/A3/54/A4/04/E5/5C/4E/26/AD/7E/Report-Gender-Alto-Adige-2024.pdf?AccessRightAllowDownload=true&Expires=1790683988&Signature=dQZQYyhinRRgVuysd4Zm~xzU9Vg64bxUmUtIVvkTH3ecvoaJXt9iO5fSj64UpbAZoJfpbNaIHA9W3dtfIsbBtbapBBbpqEF7sNkPNdJGZdADQUM6Pdh6QwqkZuMl4td19WAUwlDBqYLw8V85jQXMRXsbKnhqOzpJM7mqcz3QHbDGmg1F~YbpG1JJKKDG~7vb2EzVpv3elx1TO~gN6-tTiOv0xKtg54g4L7BF6CVbRyh5LWfRfG089dAr0y8yoezYSRUUfL5PFN-QWi1l~DPWCED3cw5Mbm6S5RZK7Bwkivr~3htFeeHuPDDMlAfGGkicus92XIfZJseQUXM9z5n9YA__&Key-Pair-Id=APKAJ72OZCZ36VGVASIA)
+- **Gender Report for Alto Adige/Südtirol 2024**. Contributed to the section on inclusive language. Available in English, German, and Italian. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r4XNIh0AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=r4XNIh0AAAAJ:qxL8FJ1GzNcC)
 
 
 #### Coverage
