@@ -48,8 +48,8 @@ nav_order: 5
 #### Events
 - **Science Chats** — Café de la Paix, Trento — February 2026
 - **Bias and Language technologies** — *Seminar* — Piano Scuola Digitale, Trento — January 2026
-- **AI is a Mirror of Ourselves: Connecting Ethics, Justice, and Responsible AI**. — *Panel Mediator* — [Coexist,
-Service Design Drinks Milan](https://stayhappening.com/e/ai-is-a-mirror-of-ourselves-connecting-ethics-justice-and-responsible-ai-E3LV468TBCEW) — March 2024. 
+- **AI is a Mirror of Ourselves: Connecting Ethics, Justice, and Responsible AI** — *Panel Mediator* — [Coexist,
+Service Design Drinks Milan](https://stayhappening.com/e/ai-is-a-mirror-of-ourselves-connecting-ethics-justice-and-responsible-ai-E3LV468TBCEW) — March 2024
 - **AI-GAP: Algorithmic Biases in Artificial Intelligence from Interdisciplinary Perspectives** — *Talk* — [Fuori Genere, L'Aquila](https://fuorigenere.wordpress.com/) — November 2023
 - **Bias and Language technologies** — *Seminar* — Sophie Scholl High School, Trento — June 2024
 
@@ -59,5 +59,5 @@ Service Design Drinks Milan](https://stayhappening.com/e/ai-is-a-mirror-of-ourse
 
 
 #### Coverage
-- **Cosa fanno gli italiani con ChatGPT, Gemini & co?**. Survey on real AI usage in Italy, Corriere della Sera. May 2025. [Link](https://www.corriere.it/tecnologia/25_maggio_31/cosa-fanno-gli-italiani-con-chatgpt-gemini-co-un-sondaggio-per-indagare-l-uso-reale-dell-ai-e-aiutare-la-ricerca-6a9ba2d6-5fab-4d3d-8056-ee10e3738xlk.shtml)
+- **Cosa fanno gli italiani con ChatGPT, Gemini & co?** Survey on real AI usage in Italy, Corriere della Sera. May 2025. [Link](https://www.corriere.it/tecnologia/25_maggio_31/cosa-fanno-gli-italiani-con-chatgpt-gemini-co-un-sondaggio-per-indagare-l-uso-reale-dell-ai-e-aiutare-la-ricerca-6a9ba2d6-5fab-4d3d-8056-ee10e3738xlk.shtml)
 - **MT Gender Bias is More Than a Technical Problem**. Interview with Tomedes. December 2022. [Link](https://www.machinetranslation.com/en/blog/mt-gender-bias-is-more-than-a-technical-problem)
