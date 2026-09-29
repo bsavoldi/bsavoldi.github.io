@@ -11,7 +11,7 @@ nav_order: 5
 
 <!-- 
 **2025** -->
-- **Multilingual Stereotypes in Large Language Models** — *Talk* — HYBRIDIS Conference: Disinformation in the Age of AI — June 2026
+- **Multilingual Stereotypes in Large Language Models** — *Talk* — HYBRIDIS Conference: Disinformation in the Age of AI, Trento — June 2026
 - **Towards Inclusive and Human-Centered Multilingual Technologies** — *Talk* — INESC-ID, Lisbon — February 2026
 -  **Language Technologies, Language and Society** — *Talk* — [International Day of Women and Girls in Science](https://www.bordeaux-neurocampus.fr/event/phd-seminar-6-february-2026/), University of Bordeaux — February 2026
 -  **Sfide e bias nelle tecnologie multilingue. Un approccio centrato sugli utenti** — *Talk* — [Conversazioni Linguistiche](https://eventi.unitn.it/sites/eventi/files/2025-05/CL_Savoldi_Locandina.pdf), University of Trento — May 2025
