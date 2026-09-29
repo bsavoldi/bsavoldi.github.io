@@ -105,12 +105,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-dvps",
           title: 'DVPS',
-          description: "Diversibus Viis Plurima Solvo.  European Union’s Horizon Europe Framework under Grant Agreement No. 101213369",
+          description: "Diversibus Viis Plurima Solvo. European Union’s Horizon Europe Framework under Grant Agreement No. 101213369",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dvps/";
             },},{id: "projects-meetween",
           title: 'Meetween',
-          description: "My Personal AI Mediator for Virtual Meetings.  European Union&#39;s Horizon Europe Framework under Grant Agreement No. 101135798",
+          description: "My Personal AI Mediator for Virtual Meetings. European Union&#39;s Horizon Europe Framework under Grant Agreement No. 101135798",
           section: "Projects",handler: () => {
               window.location.href = "/projects/meetween/";
             },},{
