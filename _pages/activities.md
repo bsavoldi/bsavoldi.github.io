@@ -18,5 +18,6 @@ nav_order: 3
 
 ## Shared Tasks
 
+- **Multilingual Instruction** — [WMT 2026 Shared Task](https://www2.statmt.org/wmt26/multilingual-instruction.html) at **EMNLP**, Budapest, Hungary
 - **Instruction-following Speech Processing** — [IWSLT 2026 Shared Task](https://iwslt.org/2026/instruction-following) at **ACL**, San Diego, California
 - **Instruction-following Speech Processing** — [IWSLT 2025 Shared Task](https://iwslt.org/2025/instruction-following) at **ACL**, Vienna, Austria

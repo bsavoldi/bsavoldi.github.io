@@ -30,6 +30,8 @@ I have taught and designed (or co-designed) several courses at the University of
 # Supervision
 I have supervised several students interning at FBK or as co-supervisor of their thesis, some of which have turned into publications. 
 
+- Wafa Aissa (ongoing). Postdoc, FBK.
+- Harun Eroglu (ongoing). PhD student, FBK and University of Trento.
 - Arianna Bernardi (ongoing). University of Torino.
 - Sofia Beccaria (ongoing). University of Milano Bicocca.
 - Arianna Denitto (2026). University of Torino. [Paper](https://arxiv.org/abs/2608.04847)
